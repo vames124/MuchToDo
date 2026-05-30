@@ -36,3 +36,8 @@ docker-compose.test.yaml
 mongodb.key
 mongo-keyfile
 
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/

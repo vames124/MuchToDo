@@ -1,0 +1,7 @@
+.git
+.env
+node_modules/
+vendor/
+*.md
+Dockerfile
+docker-compose.yaml
